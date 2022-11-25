@@ -1,1 +1,1 @@
-## This A Repository which consists of Java Mini Project
+## This  Repository consists of Java Mini Project 
